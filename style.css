@@ -3,6 +3,9 @@ body {
     margin: 0;
 }
 
+/*---------------------
+------top section------
+----------------------*/
 .top-section {
     display: flex;
     background-image: url(images/top-banner.png);
@@ -24,6 +27,7 @@ h1 {
 }
 
 .half-width img {
+    padding-left: 260px;
     width: 60%;
 
 }
@@ -36,3 +40,8 @@ h1 {
     padding: 10px 40px;
     border-radius: 5px;
 }
+
+
+/*---------------------
+-----dream section-----
+----------------------*/
